@@ -1,0 +1,25 @@
+domains = [
+{'description': 'SDAC version of openstacks from IPC11.',
+ 'name': 'sdac-openstacks-11',
+ 'problems': [
+('sdac-openstacks-11/pddl/p01-domain.pddl', 'sdac-openstacks-11/pddl/p01.pddl', 'sdac-openstacks-11/sas/p01.sas'),
+('sdac-openstacks-11/pddl/p02-domain.pddl', 'sdac-openstacks-11/pddl/p02.pddl', 'sdac-openstacks-11/sas/p02.sas'),
+('sdac-openstacks-11/pddl/p03-domain.pddl', 'sdac-openstacks-11/pddl/p03.pddl', 'sdac-openstacks-11/sas/p03.sas'),
+('sdac-openstacks-11/pddl/p04-domain.pddl', 'sdac-openstacks-11/pddl/p04.pddl', 'sdac-openstacks-11/sas/p04.sas'),
+('sdac-openstacks-11/pddl/p05-domain.pddl', 'sdac-openstacks-11/pddl/p05.pddl', 'sdac-openstacks-11/sas/p05.sas'),
+('sdac-openstacks-11/pddl/p06-domain.pddl', 'sdac-openstacks-11/pddl/p06.pddl', 'sdac-openstacks-11/sas/p06.sas'),
+('sdac-openstacks-11/pddl/p07-domain.pddl', 'sdac-openstacks-11/pddl/p07.pddl', 'sdac-openstacks-11/sas/p07.sas'),
+('sdac-openstacks-11/pddl/p08-domain.pddl', 'sdac-openstacks-11/pddl/p08.pddl', 'sdac-openstacks-11/sas/p08.sas'),
+('sdac-openstacks-11/pddl/p09-domain.pddl', 'sdac-openstacks-11/pddl/p09.pddl', 'sdac-openstacks-11/sas/p09.sas'),
+('sdac-openstacks-11/pddl/p10-domain.pddl', 'sdac-openstacks-11/pddl/p10.pddl', 'sdac-openstacks-11/sas/p10.sas'),
+('sdac-openstacks-11/pddl/p11-domain.pddl', 'sdac-openstacks-11/pddl/p11.pddl', 'sdac-openstacks-11/sas/p11.sas'),
+('sdac-openstacks-11/pddl/p12-domain.pddl', 'sdac-openstacks-11/pddl/p12.pddl', 'sdac-openstacks-11/sas/p12.sas'),
+('sdac-openstacks-11/pddl/p13-domain.pddl', 'sdac-openstacks-11/pddl/p13.pddl', 'sdac-openstacks-11/sas/p13.sas'),
+('sdac-openstacks-11/pddl/p14-domain.pddl', 'sdac-openstacks-11/pddl/p14.pddl', 'sdac-openstacks-11/sas/p14.sas'),
+('sdac-openstacks-11/pddl/p15-domain.pddl', 'sdac-openstacks-11/pddl/p15.pddl', 'sdac-openstacks-11/sas/p15.sas'),
+('sdac-openstacks-11/pddl/p16-domain.pddl', 'sdac-openstacks-11/pddl/p16.pddl', 'sdac-openstacks-11/sas/p16.sas'),
+('sdac-openstacks-11/pddl/p17-domain.pddl', 'sdac-openstacks-11/pddl/p17.pddl', 'sdac-openstacks-11/sas/p17.sas'),
+('sdac-openstacks-11/pddl/p18-domain.pddl', 'sdac-openstacks-11/pddl/p18.pddl', 'sdac-openstacks-11/sas/p18.sas'),
+('sdac-openstacks-11/pddl/p19-domain.pddl', 'sdac-openstacks-11/pddl/p19.pddl', 'sdac-openstacks-11/sas/p19.sas'),
+('sdac-openstacks-11/pddl/p20-domain.pddl', 'sdac-openstacks-11/pddl/p20.pddl', 'sdac-openstacks-11/sas/p20.sas')]}
+]
