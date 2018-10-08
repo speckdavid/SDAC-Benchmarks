@@ -1,0 +1,25 @@
+domains = [
+{'description': 'A greedy version of peg solitare which counts after every move (seq of moves) the number of remaining sticks as sdac cost.',
+ 'name': 'greedy-pegsol-11',
+ 'problems': [
+('greedy-pegsol-11/pddl/domain.pddl', 'greedy-pegsol-11/pddl/p01.pddl', 'greedy-pegsol-11/sas/p01.sas'),
+('greedy-pegsol-11/pddl/domain.pddl', 'greedy-pegsol-11/pddl/p02.pddl', 'greedy-pegsol-11/sas/p02.sas'),
+('greedy-pegsol-11/pddl/domain.pddl', 'greedy-pegsol-11/pddl/p03.pddl', 'greedy-pegsol-11/sas/p03.sas'),
+('greedy-pegsol-11/pddl/domain.pddl', 'greedy-pegsol-11/pddl/p04.pddl', 'greedy-pegsol-11/sas/p04.sas'),
+('greedy-pegsol-11/pddl/domain.pddl', 'greedy-pegsol-11/pddl/p05.pddl', 'greedy-pegsol-11/sas/p05.sas'),
+('greedy-pegsol-11/pddl/domain.pddl', 'greedy-pegsol-11/pddl/p06.pddl', 'greedy-pegsol-11/sas/p06.sas'),
+('greedy-pegsol-11/pddl/domain.pddl', 'greedy-pegsol-11/pddl/p07.pddl', 'greedy-pegsol-11/sas/p07.sas'),
+('greedy-pegsol-11/pddl/domain.pddl', 'greedy-pegsol-11/pddl/p08.pddl', 'greedy-pegsol-11/sas/p08.sas'),
+('greedy-pegsol-11/pddl/domain.pddl', 'greedy-pegsol-11/pddl/p09.pddl', 'greedy-pegsol-11/sas/p09.sas'),
+('greedy-pegsol-11/pddl/domain.pddl', 'greedy-pegsol-11/pddl/p10.pddl', 'greedy-pegsol-11/sas/p10.sas'),
+('greedy-pegsol-11/pddl/domain.pddl', 'greedy-pegsol-11/pddl/p11.pddl', 'greedy-pegsol-11/sas/p11.sas'),
+('greedy-pegsol-11/pddl/domain.pddl', 'greedy-pegsol-11/pddl/p12.pddl', 'greedy-pegsol-11/sas/p12.sas'),
+('greedy-pegsol-11/pddl/domain.pddl', 'greedy-pegsol-11/pddl/p13.pddl', 'greedy-pegsol-11/sas/p13.sas'),
+('greedy-pegsol-11/pddl/domain.pddl', 'greedy-pegsol-11/pddl/p14.pddl', 'greedy-pegsol-11/sas/p14.sas'),
+('greedy-pegsol-11/pddl/domain.pddl', 'greedy-pegsol-11/pddl/p15.pddl', 'greedy-pegsol-11/sas/p15.sas'),
+('greedy-pegsol-11/pddl/domain.pddl', 'greedy-pegsol-11/pddl/p16.pddl', 'greedy-pegsol-11/sas/p16.sas'),
+('greedy-pegsol-11/pddl/domain.pddl', 'greedy-pegsol-11/pddl/p17.pddl', 'greedy-pegsol-11/sas/p17.sas'),
+('greedy-pegsol-11/pddl/domain.pddl', 'greedy-pegsol-11/pddl/p18.pddl', 'greedy-pegsol-11/sas/p18.sas'),
+('greedy-pegsol-11/pddl/domain.pddl', 'greedy-pegsol-11/pddl/p19.pddl', 'greedy-pegsol-11/sas/p19.sas'),
+('greedy-pegsol-11/pddl/domain.pddl', 'greedy-pegsol-11/pddl/p20.pddl', 'greedy-pegsol-11/sas/p20.sas')]}
+]
