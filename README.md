@@ -8,6 +8,7 @@ Colored Gripper is based on the Gripper domain. In this version, balls and rooms
 
 ## Greedy-Pegsol
 Greedy-Pegsol is a modified version of the Pegsol domain. The only difference is that the cost of action end-move is state-dependent: its cost is equal to the number of remaining pegs on the board. In other words, the cost of a plan is the sum of all pegs left on the board after each move se quence. Thus, an optimal plan has to perform long moves in the beginning to greedily remove as many pegs as possible from the board.
+
 Version 2: the cost of action start-move is state-dependent instead of the end-move. This leads to the same plans (with different costs) but is more heuristic friendly.
 
 ## SDAC-Openstacks
