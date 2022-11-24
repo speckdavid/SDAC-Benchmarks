@@ -1,4 +1,4 @@
-# Benchmark: Domains with State-Dependent Action Costs
+# Domains with State-Dependent Action Costs
 
 ## Main source
 ```console
