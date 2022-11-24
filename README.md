@@ -1,6 +1,20 @@
 # Benchmark: Domains with State-Dependent Action Costs
 
-## Asterix.
+## Main source
+```console
+@inproceedings{speck-et-al-icaps2018,
+  title = {Symbolic Planning with Edge-Valued Multi-Valued Decision Diagrams},
+  author = {Speck, David and Gei{\ss}er, Florian and Mattm{\"u}ller, Robert},
+  editor = {de Weerdt, Mathijs and Koenig, Sven and R{\"o}ger, Gabriele and Spaan, Matthijs},
+  booktitle = {Proceedings of the Twenty-Eighth International Conference on Automated Planning and Scheduling (ICAPS 2018)},
+  year = {2018},
+  publisher = {AAAI Press}
+}
+```
+
+Note that only the SAS files have state-dependent action costs and the PDDL files only specify the dynamics of the planning task.
+
+## Asterix
 Asterix is a new domain, combining state-dependent action costs and conditional effects. The task is to collect an “Edelweiss”, located on top of a mountain. The cost to climb the mountain depends on its slope. However, Asterix may gather a mistletoe and bring it to Getafix, who can then brew the magic potion. This potion allows Asterix to climb the mountain directly. In order to gather the mistletoe, Asterix needs to “knock out” some Romans. An optimal plan therefore depends on whether it is easier to defeat all the Romans to brew the magic potion, or to climb the mountain directly, without the potion. The tasks differ in the number of Romans and the size of the mountain. The large symmetric state space (defeating Romans in different orders) is especially challenging for state-of-the-art planners.
 
 ## Colored Gripper
